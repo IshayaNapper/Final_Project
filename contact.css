@@ -1,0 +1,25 @@
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    text-align: left;
+    color: rgb(19, 90, 81);
+}
+h2{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    justify-content: center;
+    margin-left: 25px;
+    margin-top: 55px;
+    margin-bottom: 40px;
+}
+.col-4{
+    margin-left: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
