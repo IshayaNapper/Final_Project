@@ -1,0 +1,23 @@
+h3{
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    text-align: left;
+    color: rgb(19, 90, 81);
+}
+h2{
+    float: left;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    justify-content: center;
+    margin-left: 25px;
+    margin-top: 55px;
+    margin-bottom: 40px;
+}
+.col-12{
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+}
